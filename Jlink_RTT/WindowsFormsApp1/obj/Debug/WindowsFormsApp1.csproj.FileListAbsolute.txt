@@ -1,0 +1,37 @@
+C:\Users\admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\lmnb\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\lmnb\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\lmnb\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\lmnb\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\lmnb\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\JLink RTT.exe.config
+C:\Users\lmnb\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\JLink RTT.exe
+C:\Users\lmnb\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\JLink RTT.pdb
+C:\Users\lmnb\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\JLink RTT.exe
+C:\Users\lmnb\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\JLink RTT.pdb
+C:\Users\lmnb\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\JLink RTT.exe.manifest
+C:\Users\lmnb\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\JLink RTT.application
+C:\Users\lmnb\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\JLink RTT.exe.manifest
+C:\Users\lmnb\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\JLink RTT.application
+D:\lmnb\vs\Jlink_RTT\WindowsFormsApp1\bin\Debug\JLink RTT.exe.config
+D:\lmnb\vs\Jlink_RTT\WindowsFormsApp1\bin\Debug\JLink RTT.exe.manifest
+D:\lmnb\vs\Jlink_RTT\WindowsFormsApp1\bin\Debug\JLink RTT.application
+D:\lmnb\vs\Jlink_RTT\WindowsFormsApp1\bin\Debug\JLink RTT.exe
+D:\lmnb\vs\Jlink_RTT\WindowsFormsApp1\bin\Debug\JLink RTT.pdb
+D:\lmnb\vs\Jlink_RTT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\lmnb\vs\Jlink_RTT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\lmnb\vs\Jlink_RTT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\lmnb\vs\Jlink_RTT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\lmnb\vs\Jlink_RTT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\lmnb\vs\Jlink_RTT\WindowsFormsApp1\obj\Debug\JLink RTT.exe.manifest
+D:\lmnb\vs\Jlink_RTT\WindowsFormsApp1\obj\Debug\JLink RTT.application
+D:\lmnb\vs\Jlink_RTT\WindowsFormsApp1\obj\Debug\JLink RTT.exe
+D:\lmnb\vs\Jlink_RTT\WindowsFormsApp1\obj\Debug\JLink RTT.pdb
